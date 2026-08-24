@@ -1,3 +1,7 @@
-# AI Image Processing and Classification Project
 
-This project is designed to give you hands-on experience working with an image classifier and enhancing your programming skills using AI assistance. The project has two parts, each focused on different aspects of image classification and processing. By the end, you'll have explored fundamental concepts like Grad-CAM, image classification, and creative image filtering.
+For Part 1, I used `dog.jpg` with MobileNetV2. The top three predictions were golden retriever at 0.85, Labrador retriever at 0.01, and Brittany spaniel at 0.01. AI helped me understand that the program resizes and preprocesses the image before sending it into the model.
+
+For Grad-CAM, I learned that it shows which parts of the image had the biggest effect on the prediction. In my heatmap, the strongest areas were around the dog’s face, eyes, nose, ears, and fur around the head.
+
+For Part 2, the blur filter made the image softer and removed some detail. I then changed the filter to increase contrast, color, and sharpness. The artistic version looked brighter and more detailed than the blurred image.
+Overall, AI helped me understand the code and make changes to it, but I still had to test the programs and check the results myself.
